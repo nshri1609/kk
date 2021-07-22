@@ -3,7 +3,7 @@
 # Duino-Coin Python PC Miner (v2.5.6)
 # https://github.com/revoxhere/duino-coin
 # Distributed under MIT license
-# © Duino-Coin Community 2019-2021
+# @ Duino-Coin Community 2019-2021
 ##########################################
 # Import libraries
 import sys
@@ -903,11 +903,11 @@ def Thread(
                                     + "%)"
                                     + Style.NORMAL
                                     + Fore.RESET
-                                    + " · "
+                                    + " Â· "
                                     + str("%05.2f" % float(computetime))
                                     + "s"
                                     + Style.NORMAL
-                                    + " · "
+                                    + " Â· "
                                     + Fore.BLUE
                                     + Style.BRIGHT
                                     + str(formattedhashcount)
@@ -915,7 +915,7 @@ def Thread(
                                     + Style.NORMAL
                                     + " ? diff "
                                     + str(diff)
-                                    + " · "
+                                    + " Â· "
                                     + Fore.CYAN
                                     + "ping "
                                     + str("%02.0f" % int(ping))
@@ -960,11 +960,11 @@ def Thread(
                                     + "%)"
                                     + Style.NORMAL
                                     + Fore.RESET
-                                    + " · "
+                                    + " Â· "
                                     + str("%05.2f" % float(computetime))
                                     + "s"
                                     + Style.NORMAL
-                                    + " · "
+                                    + " Â· "
                                     + Fore.BLUE
                                     + Style.BRIGHT
                                     + str(formattedhashcount)
@@ -972,7 +972,7 @@ def Thread(
                                     + Style.NORMAL
                                     + " ? diff "
                                     + str(diff)
-                                    + " · "
+                                    + " Â· "
                                     + Fore.CYAN
                                     + "ping "
                                     + str("%02.0f" % int(ping))
@@ -1018,11 +1018,11 @@ def Thread(
                                     + "%)"
                                     + Style.NORMAL
                                     + Fore.RESET
-                                    + " · "
+                                    + " Â· "
                                     + str("%05.2f" % float(computetime))
                                     + "s"
                                     + Style.NORMAL
-                                    + " · "
+                                    + " Â· "
                                     + Fore.BLUE
                                     + Style.BRIGHT
                                     + str(formattedhashcount)
@@ -1030,7 +1030,7 @@ def Thread(
                                     + Style.NORMAL
                                     + " ? diff "
                                     + str(diff)
-                                    + " · "
+                                    + " Â· "
                                     + Fore.CYAN
                                     + "ping "
                                     + str("%02.0f" % int(ping))
