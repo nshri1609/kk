@@ -1,2 +1,2 @@
-# kk
-mm
+python mining code
+
